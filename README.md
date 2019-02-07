@@ -22,31 +22,31 @@
 
 ## [包含设备](https://github.com/OS-Q/W29/wiki) 
 
-#### D190：[NULL](https://github.com/OS-Q/D190)
+#### D197：[感知业务](https://github.com/OS-Q/D197)
+
+管控所有的感知业务和传感器网络
+
+#### D198：[控制业务](https://github.com/OS-Q/D198)
+
+管控所有的控制设备装备和装备信息
+
+#### D199：[通信业务](https://github.com/OS-Q/D199)
+
+用语管控所有的通信线路和路由信息
+
+#### D200：[网络业务](https://github.com/OS-Q/D200)
+
+用语管理各个网络设备节点
+
+#### D201：[NULL](https://github.com/OS-Q/D201)
 
 
 
-#### D191：[NULL](https://github.com/OS-Q/D191)
+#### D202：[NULL](https://github.com/OS-Q/D202)
 
 
 
-#### D192：[NULL](https://github.com/OS-Q/D192)
-
-
-
-#### D193：[NULL](https://github.com/OS-Q/D193)
-
-
-
-#### D194：[NULL](https://github.com/OS-Q/D194)
-
-
-
-#### D195：[NULL](https://github.com/OS-Q/D195)
-
-
-
-#### D196：[NULL](https://github.com/OS-Q/D196)
+#### D203：[NULL](https://github.com/OS-Q/D203)
 
 
 ## [同级平台](https://github.com/OS-Q/M7/wiki) 
@@ -71,5 +71,5 @@
 
 ####  © qitas@qitas.cn
 ###  [OS-Q redefined Operation System](http://www.OS-Q.com)
-####  @ 2019-1-14
+####  @ 2019-2-7
 
