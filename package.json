@@ -1,0 +1,7 @@
+{
+    "name": "framework-N31",
+    "description": "Arduino emu Frameworks for PlatformIO",
+    "url": "https://github.com/Wiz-IO/framework-wizio",
+    "system": "*",
+    "version": "1.0.0"
+}
