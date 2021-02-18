@@ -1,7 +1,7 @@
 {
-    "name": "framework-N31",
-    "description": "Arduino emu Frameworks for PlatformIO",
-    "url": "https://github.com/Wiz-IO/framework-wizio",
+    "name": "A10",
+    "description": "Arduino emu Frameworks",
+    "url": "https://github.com/OS-Q/A10",
     "system": "*",
     "version": "1.0.0"
 }
